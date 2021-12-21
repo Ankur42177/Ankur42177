@@ -1,5 +1,6 @@
 ### Hi there 👋
-![imageankur42177](C:\Users\Ankur\Desktop\Detail\web-developer-design-vector-5885787.jpg)
+<img src="C:\Users\Ankur\Desktop\Ankur42177\web-developer-design-vector-5885787.jpg" style="alignSelf:'center'"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#228B22&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+programmer+web+developer;)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A programmer learning various framework and library.</h3>
