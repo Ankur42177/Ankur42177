@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src="web-developer-design-vector-5885787 (2).jpg" style="alignSelf:'center'" height="40%" width="60%">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Ankur+Kumar;I+am+a+Full+stack+Developer;%E2%99%A5+Reading+Book)](https://git.io/typing-svg)
+<img src="web-developer-design-vector-5885787 (2).jpg" style="alignSelf:'center'" height="30%" width="60%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Ankur+Kumar;I+am+a+Full+stack+Developer;Reading+Book)](https://git.io/typing-svg)
+
 
 
 
