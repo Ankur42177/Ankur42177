@@ -1,6 +1,8 @@
 ### Hi there 👋
-<img src="web-developer-design-vector-5885787.jpg" style="alignSelf:'center'"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7E830&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+programmer+web+developer;)](https://git.io/typing-svg)
+<img src="web-developer-design-vector-5885787 (2).jpg" style="alignSelf:'center'"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7E830&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+Full+stack+Developer;%E2%99%A5+Web;%E2%99%A5+CP)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A programmer learning various framework and library.</h3>
