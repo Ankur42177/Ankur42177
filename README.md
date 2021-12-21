@@ -1,9 +1,9 @@
 ### Hi there 👋
 <img src="web-developer-design-vector-5885787 (2).jpg" style="alignSelf:'center'" height="30%" width="60%">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2369F73B&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+Full+stack+Developer;%E2%99%A5+Reading+Book)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2369F73B&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+Full+stack+Developer;+Reading+Book)](https://git.io/typing-svg)
+%23F7E830 %2369F73B -->
 
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2369F73B&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+Web+Developer;%E2%99%A5+Reading+Book)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A programmer learning various framework and library.</h3>
 <h3 align="center">A sophomore @ NIT,Manipur.</h3>
