@@ -6,17 +6,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2369F73B&size=30&vCenter=true&lines=Hi%2C+I'm+Ankur+Kumar;I+am+a+Web+Developer;%E2%99%A5+Reading+Book)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A programmer learning various framework and library.</h3>
-<h3 align="center">A sophomore @ NIT,Manipur.</h3>
+<!-- <h3 align="center">A sophomore @ NIT,Manipur.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur42177&label=Profile%20views&color=0e75b6&style=flat" alt="ankur42177" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ankur07070?logo=twitter&style=for-the-badge" alt="ankur070707" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ankur070707?logo=twitter&style=for-the-badge" alt="ankur070707" /></a> </p> -->
 
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Message-Book](https://github.com/Ankur42177/MessagingBookApp.git)
 
 - 📫 How to reach me **ankur42177@gmail.com**
+
+<!-- <h3 align="centre">Connect with me: ✨</h3>
+<p align="centre">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankur070" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ankur-kumar-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankur-kumar-007" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/ankur4217" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ankur4217" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ankur4217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ankur4217/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/ankur4217/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ankur42177/practice/" height="30" width="40" /></a>
+</p> -->
 
 
 
